@@ -1,0 +1,1 @@
+web: gunicorn phonecommerce.wsgi --log-file -
